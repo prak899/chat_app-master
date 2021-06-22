@@ -1,4 +1,4 @@
-# chat_app
+# PrompotNow
 
 A new Flutter project.
 
